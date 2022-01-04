@@ -20,7 +20,6 @@ for (let i = 0; i < chaine.length; i++) {
 }
 
 console.log(chaineEncodee);
-
 // avec le modulo avec variables intermédiaires et autre valeur de clé
 
 let cle = 18;
